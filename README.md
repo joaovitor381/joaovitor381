@@ -1,9 +1,5 @@
 HEy! eu sou o João Vitor, desenvolvedor full stack 
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando TypeScript
-- 😄 Pronouns : ele/dele
-
 <div align="center">
   <a href="https://github.com/joaovitor381">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitor381&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
