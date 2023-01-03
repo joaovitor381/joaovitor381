@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/joaovitor381">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=joaovitor381&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor381&layout=compact&langs_count=7&theme=dracula" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
