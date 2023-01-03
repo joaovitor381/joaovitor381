@@ -1,7 +1,7 @@
  ## HEy! eu sou o João Vitor, desenvolvedor full stack
 <div align="center">
   <a href="https://github.com/joaovitor381">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=joaovitor381&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="João Vitor github stats" /> 
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=joaovitor381&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor381&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 <div style="display: inline_block"><br>
