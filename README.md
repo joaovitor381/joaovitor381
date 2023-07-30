@@ -20,7 +20,7 @@
 
  <div>
   <a href="https://www.facebook.com/joaovitor407" target="_blank"><img src ="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.snapchat.com/add/pryncxxx" target="_blank"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/1041767081416335442" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://br.pinterest.com/joaovittor999/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
  <a href=
   <a href = "mailto:joaoviitor2023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -29,5 +29,3 @@
   </div>
   
   
- ![Snake animation](https://github.com/joaovitor381/joaovitor381/blob/output/github-contribution-grid-snake.svg)
-<div>
