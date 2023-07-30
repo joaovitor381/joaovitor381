@@ -28,6 +28,6 @@
   <a href="https://open.spotify.com/user/314qlxgg255ydmvugka4ca26bftm" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   </div>
   
-  <div
-![Snake animation](https://github.com/joaovitor381/joaovitor381/blob/output/github-contribution-grid-snake.svg)
- 
+  
+ ![Snake animation](https://github.com/joaovitor381/joaovitor381/blob/output/github-contribution-grid-snake.svg)
+<div>
