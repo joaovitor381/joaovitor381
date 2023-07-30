@@ -12,7 +12,7 @@
   <img align="center" alt="João-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="João-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="João-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="João-PowerSheel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powersheel/python-original.svg">
+   <img align="center" alt="João-PowerSheel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powersheel/powersheel-original.svg">
   <img align="right" alt="João-pic" height="150" style="border-radius:50px;" 
  src ="https://user-images.githubusercontent.com/117750400/210132023-d353a3a7-976a-4f4d-bdb1-e446f81f0d30.png">
 </div>
